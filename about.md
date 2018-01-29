@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+My name is Jacob Helfgot and I am a senior at New York University majoring in Computer Science and minoring in mathematics.
 
 ### More Information
 
