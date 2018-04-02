@@ -7,6 +7,15 @@ permalink: /contributions/
 ## Testing that creation of new page works.
 
 
-| Week #        | Contribution  | Contribution Type  |
-| ------------- |:-------------:| ------------------:|
-|Test           |      Test     |       Test         |
+<table>
+    <tr>
+        <th>Week #</th>
+        <th>Contribution</th>
+        <th>Contribution Type</th>
+    </tr>
+    <tr>
+        <td>Test</td>
+        <td>Test</td>
+        <td>Test</td>
+    </tr>
+</table>
