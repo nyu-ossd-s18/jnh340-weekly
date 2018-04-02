@@ -4,9 +4,6 @@ title: Contributions
 permalink: /contributions/
 ---
 
-## Testing that creation of new page works.
-
-
 <table style="width: 100%">
     <tr style="border: 1px solid black">
         <th>Week #</th>
@@ -14,8 +11,8 @@ permalink: /contributions/
         <th>Contribution Type</th>
     </tr>
     <tr>
-        <td>Test</td>
-        <td>Test</td>
-        <td>Test</td>
+        <td style="border: 1px solid black">Test</td>
+        <td style="border: 1px solid black">Test</td>
+        <td style="border: 1px solid black">Test</td>
     </tr>
 </table>
