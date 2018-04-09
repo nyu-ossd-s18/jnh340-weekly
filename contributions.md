@@ -4,7 +4,7 @@ title: Contributions
 permalink: /contributions/
 ---
 
-<table style="width: 100%">
+<table style="width: 100%; padding: 3px;">
     <tr style="border: 1px solid black">
         <th>Week #</th>
         <th>Contribution</th>
