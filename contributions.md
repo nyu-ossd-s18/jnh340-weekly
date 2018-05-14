@@ -35,17 +35,6 @@ permalink: /contributions/
     </tr>
     
     <tr>
-        <td style="border: 1px solid black">Week 6</td>
-        <td style="border: 1px solid black">Copy edited the introduction of a wikipedia article about the Gajah Mungkur Dam.<a href="https://en.wikipedia.org/w/index.php?title=Gajah_Mungkur_Dam&diff=prev&oldid=825742126"> Link to issue </a></td>
-        <td style="border: 1px solid black">Course-Website</td>
-    </tr>
-    
-    <tr>
-        <td style="border: 1px solid black">Week 6</td>
-        <td style="border: 1px solid black">Copy edited the introduction of a wikipedia article about the Gajah Mungkur Dam.<a href="https://en.wikipedia.org/w/index.php?title=Gajah_Mungkur_Dam&diff=prev&oldid=825742126"> Link to Edit </a></td>
-        <td style="border: 1px solid black">Wikipedia</td>
-    </tr>
-    <tr>
         <td style="border: 1px solid black">Week 12</td>
         <td style="border: 1px solid black">Added an open street maps location for my favorite Mexican Restaurant<a href="https://www.openstreetmap.org/changeset/58935966"> Link to Addition </a></td>
         <td style="border: 1px solid black">Open Street Maps</td>
@@ -59,14 +48,59 @@ permalink: /contributions/
     
     <tr>
         <td style="border: 1px solid black">Week 12</td>
-        <td style="border: 1px solid black">Edited the introduction and history section of a wikipedia article about a French astrophysicist for grammar and phrasing<a href="https://en.wikipedia.org/w/index.php?title=Fran%C3%A7oise_Combes&diff=prev&oldid=841077885"> Link to Edit </a></td>
-        <td style="border: 1px solid black">Wikipedia</td>
-    </tr>
-    
-    <tr>
-        <td style="border: 1px solid black">Week 12</td>
         <td style="border: 1px solid black">Edited the biography of an Italian artist for spelling, phrasing, and grammar.<a href="https://en.wikipedia.org/w/index.php?title=Franco_Angeli&diff=prev&oldid=841078423"> Link to Edit </a></td>
         <td style="border: 1px solid black">Wikipedia</td>
     </tr>
+    <tr>
+        <td style="border: 1px solid black">Week 12</td>
+        <td style="border: 1px solid black">Edited the Agriculture section of a wikipedia article about the economy of a Norhtern Indian proinve for spelling and grammar. <a href="https://en.wikipedia.org/w/index.php?title=Economy_of_Karnataka&diff=prev&oldid=841078986"> Link to Edit </a></td>
+        <td style="border: 1px solid black">Wikipedia</td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid black">Week 12</td>
+        <td style="border: 1px solid black">Edited a wikipedia article about a Congolese politician, specifically the section detailing his controversies. I edited grammar and phrasing. <a href="https://en.wikipedia.org/w/index.php?title=Julien_Paluku_Kahongya&diff=prev&oldid=841080549"> Link to Edit </a></td>
+        <td style="border: 1px solid black">Wikipedia</td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid black">Week 12</td>
+        <td style="border: 1px solid black">Added a poke restaurant on west 3rd st to open street maps.<a href="https://www.openstreetmap.org/changeset/58936411#map=19/40.73059/-74.00044"> Link to Addition </a></td>
+        <td style="border: 1px solid black">Open Street Maps</td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid black">Week 12</td>
+        <td style="border: 1px solid black">Added the restaurant my brother works at to open street maps.<a href="https://www.openstreetmap.org/changeset/58936374#map=19/40.74210/-73.98357"> Link to Addition </a></td>
+        <td style="border: 1px solid black">Open Street Maps</td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid black">Week 12</td>
+        <td style="border: 1px solid black">Added my favorite independent movie theater to open street maps.<a href="https://www.openstreetmap.org/changeset/58936391#map=16/40.7268/-73.9979"> Link to Addition </a></td>
+        <td style="border: 1px solid black">Open Street Maps</td>
+    </tr>
+    
+    <tr>
+        <td style="border: 1px solid black">Week 3</td>
+        <td style="border: 1px solid black">Commented on an issue in the Adobe/Brackets repository for a bug that I was unable to reproduce on my machine.<a href="https://github.com/adobe/brackets/issues/14117"> Link to Issue </a></td>
+        <td style="border: 1px solid black">Issue Comment</td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid black">Week 5</td>
+        <td style="border: 1px solid black">Commented on an issue in the Adobe/Brackets repository for a bug that I was unable to reproduce on my machine.<a href="https://github.com/adobe/brackets/issues/14117"> Link to Issue </a></td>
+        <td style="border: 1px solid black">Issue Comment</td>
+    </tr>
+    
+    
+    <tr>
+        <td style="border: 1px solid black">Week 12</td>
+        <td style="border: 1px solid black">Edited my hometown (Provincetown) wikivoyage page to have more detailed information for travelling to the destination, and added an attraction. I made the edits through various publications, so refer to the four least recent contributions at this link to see the associated diff logs.<a href="https://en.wikivoyage.org/wiki/Special:Contributions/Gothelf95"> Link  </a></td>
+        <td style="border: 1px solid black">WikiVoyage</td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid black">Week 12</td>
+        <td style="border: 1px solid black">Created a wikiquote page for my favorite author, Karl Ove Knausgard, and placed the first quote on it.<a href="https://en.wikiquote.org/w/index.php?title=Karl_Ove_Knausg%C3%A5rd&oldid=2404565"> Link to page  </a></td>
+        <td style="border: 1px solid black">WikiQuote</td>
+    </tr>
+    
+    
+
    
 </table>
